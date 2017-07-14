@@ -1,7 +1,7 @@
 package de.alphahelix.almschematic.serializer;
 
 import com.google.gson.*;
-import de.alphahelix.almschematic.schematics.Schematic;
+import de.alphahelix.almschematic.Schematic;
 import org.bukkit.Material;
 
 import java.lang.reflect.Type;

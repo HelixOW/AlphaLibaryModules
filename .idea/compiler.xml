@@ -30,7 +30,6 @@
         <module name="ALM-Teams" />
         <module name="ALM-Texts" />
         <module name="ALM-Utils" />
-        <module name="ALM-UUID" />
         <module name="ALM-Voting" />
       </profile>
     </annotationProcessing>

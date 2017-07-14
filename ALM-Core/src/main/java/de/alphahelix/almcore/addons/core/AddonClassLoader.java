@@ -1,6 +1,6 @@
 package de.alphahelix.almcore.addons.core;
 
-import de.alphahelix.alphalibary.addons.core.exceptions.InvalidAddonException;
+import de.alphahelix.almcore.addons.core.exceptions.InvalidAddonException;
 import org.apache.commons.lang.Validate;
 
 import java.io.File;

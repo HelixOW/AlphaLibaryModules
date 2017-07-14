@@ -1,8 +1,8 @@
 package de.alphahelix.almschematic.serializer;
 
 import com.google.gson.*;
-import de.alphahelix.almschematic.schematics.Schematic;
-import de.alphahelix.almutils.utils.JSONUtil;
+import de.alphahelix.almschematic.Schematic;
+import de.alphahelix.almutils.JSONUtil;
 
 import java.lang.reflect.Type;
 import java.util.List;

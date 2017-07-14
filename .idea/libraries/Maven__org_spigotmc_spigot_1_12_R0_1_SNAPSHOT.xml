@@ -5,7 +5,10 @@
     </CLASSES>
     <JAVADOC>
       <root url="https://hub.spigotmc.org/javadocs/spigot/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot/1.12-R0.1-SNAPSHOT/spigot-1.12-R0.1-SNAPSHOT-javadoc.jar!/" />
     </JAVADOC>
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot/1.12-R0.1-SNAPSHOT/spigot-1.12-R0.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

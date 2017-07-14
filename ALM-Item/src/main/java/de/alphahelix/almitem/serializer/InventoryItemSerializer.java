@@ -1,8 +1,8 @@
 package de.alphahelix.almitem.serializer;
 
 import com.google.gson.*;
-import de.alphahelix.almitem.item.InventoryItem;
-import de.alphahelix.almutils.utils.JSONUtil;
+import de.alphahelix.almitem.InventoryItem;
+import de.alphahelix.almutils.JSONUtil;
 import org.bukkit.inventory.ItemStack;
 
 import java.lang.reflect.Type;

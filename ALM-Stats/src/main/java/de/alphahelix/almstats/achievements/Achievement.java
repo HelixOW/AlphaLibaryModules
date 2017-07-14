@@ -18,7 +18,7 @@
 
 package de.alphahelix.almstats.achievements;
 
-import de.alphahelix.almitem.item.InventoryItem;
+import de.alphahelix.almitem.InventoryItem;
 
 import java.io.Serializable;
 import java.util.List;

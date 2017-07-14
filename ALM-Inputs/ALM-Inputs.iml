@@ -23,5 +23,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.spigotmc:spigot:1.12-R0.1-SNAPSHOT" level="project" />
     <orderEntry type="module" module-name="ALM-Core" />
+    <orderEntry type="module" module-name="ALM-Reflections" />
+    <orderEntry type="module" module-name="ALM-FakeAPI" />
+    <orderEntry type="module" module-name="ALM-Netty" />
   </component>
 </module>

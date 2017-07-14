@@ -19,7 +19,7 @@
 package de.alphahelix.almairdrops;
 
 import de.alphahelix.almcore.listener.SimpleListener;
-import de.alphahelix.almutils.utils.Util;
+import de.alphahelix.almutils.Util;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.World;

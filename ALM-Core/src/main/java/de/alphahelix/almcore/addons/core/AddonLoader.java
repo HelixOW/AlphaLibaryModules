@@ -1,8 +1,8 @@
 package de.alphahelix.almcore.addons.core;
 
-import de.alphahelix.alphalibary.addons.AddonCore;
-import de.alphahelix.alphalibary.addons.core.exceptions.InvalidAddonDescriptionException;
-import de.alphahelix.alphalibary.addons.core.exceptions.InvalidAddonException;
+import de.alphahelix.almcore.addons.AddonCore;
+import de.alphahelix.almcore.addons.core.exceptions.InvalidAddonDescriptionException;
+import de.alphahelix.almcore.addons.core.exceptions.InvalidAddonException;
 import org.apache.commons.lang.Validate;
 import org.yaml.snakeyaml.error.YAMLException;
 

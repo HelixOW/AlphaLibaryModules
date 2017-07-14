@@ -1,9 +1,9 @@
 package de.alphahelix.almstats.serializer;
 
 import com.google.gson.*;
-import de.alphahelix.almitem.item.InventoryItem;
+import de.alphahelix.almitem.InventoryItem;
 import de.alphahelix.almstats.achievements.Achievement;
-import de.alphahelix.almutils.utils.JSONUtil;
+import de.alphahelix.almutils.JSONUtil;
 
 import java.lang.reflect.Type;
 import java.util.List;

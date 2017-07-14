@@ -16,16 +16,13 @@ public class SimpleAddonManager implements AddonManager {
 
     private final static Pattern JAR_PATTERN = Pattern.compile("(.+?)(\\.jar)");
 
-    private final AddonCore addonCore;
     private final File addonDir;
     private Map<String, Addon> lookUpNames = new HashMap<>();
-    private Map<File, String[]> depends = new HashMap<>();
     private List<Addon> addons = new ArrayList<>();
 
-    public SimpleAddonManager(File addonDir, AddonCore addonCore) {
+    public SimpleAddonManager(File addonDir) {
         Validate.notNull(addonDir, "Directory cannot be null");
         Validate.isTrue(addonDir.isDirectory(), "Directory must be a directory");
-        this.addonCore = addonCore;
         this.addonDir = addonDir;
     }
 

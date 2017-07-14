@@ -1,6 +1,6 @@
 package de.alphahelix.almairdrops;
 
-import de.alphahelix.almutils.utils.LocationUtil;
+import de.alphahelix.almutils.LocationUtil;
 import org.bukkit.Location;
 
 import java.io.Serializable;
