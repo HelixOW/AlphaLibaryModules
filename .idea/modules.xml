@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ALM-Airdrops/ALM-Airdrops.iml" filepath="$PROJECT_DIR$/ALM-Airdrops/ALM-Airdrops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Arena/ALM-Arena.iml" filepath="$PROJECT_DIR$/ALM-Arena/ALM-Arena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Commands/ALM-Commands.iml" filepath="$PROJECT_DIR$/ALM-Commands/ALM-Commands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Core/ALM-Core.iml" filepath="$PROJECT_DIR$/ALM-Core/ALM-Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Countdown/ALM-Countdown.iml" filepath="$PROJECT_DIR$/ALM-Countdown/ALM-Countdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Entity/ALM-Entity.iml" filepath="$PROJECT_DIR$/ALM-Entity/ALM-Entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-FakeAPI/ALM-FakeAPI.iml" filepath="$PROJECT_DIR$/ALM-FakeAPI/ALM-FakeAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-File/ALM-File.iml" filepath="$PROJECT_DIR$/ALM-File/ALM-File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Holograns/ALM-Holograms.iml" filepath="$PROJECT_DIR$/ALM-Holograns/ALM-Holograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Inputs/ALM-Inputs.iml" filepath="$PROJECT_DIR$/ALM-Inputs/ALM-Inputs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Inventories/ALM-Inventories.iml" filepath="$PROJECT_DIR$/ALM-Inventories/ALM-Inventories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Item/ALM-Item.iml" filepath="$PROJECT_DIR$/ALM-Item/ALM-Item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Kits/ALM-Kits.iml" filepath="$PROJECT_DIR$/ALM-Kits/ALM-Kits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-MySQL/ALM-MySQL.iml" filepath="$PROJECT_DIR$/ALM-MySQL/ALM-MySQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Netty/ALM-Netty.iml" filepath="$PROJECT_DIR$/ALM-Netty/ALM-Netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Reflections/ALM-Reflections.iml" filepath="$PROJECT_DIR$/ALM-Reflections/ALM-Reflections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Schematic/ALM-Schematic.iml" filepath="$PROJECT_DIR$/ALM-Schematic/ALM-Schematic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Scoreboard/ALM-Scoreboard.iml" filepath="$PROJECT_DIR$/ALM-Scoreboard/ALM-Scoreboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Spectator/ALM-Spectator.iml" filepath="$PROJECT_DIR$/ALM-Spectator/ALM-Spectator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Stats/ALM-Stats.iml" filepath="$PROJECT_DIR$/ALM-Stats/ALM-Stats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Teams/ALM-Teams.iml" filepath="$PROJECT_DIR$/ALM-Teams/ALM-Teams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Texts/ALM-Texts.iml" filepath="$PROJECT_DIR$/ALM-Texts/ALM-Texts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-UUID/ALM-UUID.iml" filepath="$PROJECT_DIR$/ALM-UUID/ALM-UUID.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Utils/ALM-Utils.iml" filepath="$PROJECT_DIR$/ALM-Utils/ALM-Utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ALM-Voting/ALM-Voting.iml" filepath="$PROJECT_DIR$/ALM-Voting/ALM-Voting.iml" />
+    </modules>
+  </component>
+</project>

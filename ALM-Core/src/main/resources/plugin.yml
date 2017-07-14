@@ -1,0 +1,4 @@
+name: ALM-Core
+version: ${project.version}
+main: de.alphahelix.almcore.ALMCore
+author: AlphaHelix

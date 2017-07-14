@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ALM-Airdrops" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Arena" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Commands" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Countdown" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-FakeAPI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-File" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Holograns" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Inputs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Inventories" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Kits" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-MySQL" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Netty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Reflections" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Schematic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Scoreboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Spectator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Stats" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Teams" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Texts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-UUID" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ALM-Voting" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Eclipse" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ALM-Airdrops" />
+        <module name="ALM-Arena" />
+        <module name="ALM-Commands" />
+        <module name="ALM-Core" />
+        <module name="ALM-Countdown" />
+        <module name="ALM-Entity" />
+        <module name="ALM-FakeAPI" />
+        <module name="ALM-File" />
+        <module name="ALM-Holograms" />
+        <module name="ALM-Inputs" />
+        <module name="ALM-Inventories" />
+        <module name="ALM-Item" />
+        <module name="ALM-Kits" />
+        <module name="ALM-MySQL" />
+        <module name="ALM-Netty" />
+        <module name="ALM-Reflections" />
+        <module name="ALM-Schematic" />
+        <module name="ALM-Scoreboard" />
+        <module name="ALM-Spectator" />
+        <module name="ALM-Stats" />
+        <module name="ALM-Teams" />
+        <module name="ALM-Texts" />
+        <module name="ALM-Utils" />
+        <module name="ALM-UUID" />
+        <module name="ALM-Voting" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ALM-Airdrops" target="1.8" />
+      <module name="ALM-Arena" target="1.8" />
+      <module name="ALM-Commands" target="1.8" />
+      <module name="ALM-Core" target="1.8" />
+      <module name="ALM-Countdown" target="1.8" />
+      <module name="ALM-Entity" target="1.8" />
+      <module name="ALM-FakeAPI" target="1.8" />
+      <module name="ALM-File" target="1.8" />
+      <module name="ALM-Holograms" target="1.8" />
+      <module name="ALM-Inputs" target="1.8" />
+      <module name="ALM-Inventories" target="1.8" />
+      <module name="ALM-Item" target="1.8" />
+      <module name="ALM-Kits" target="1.8" />
+      <module name="ALM-MySQL" target="1.8" />
+      <module name="ALM-Netty" target="1.8" />
+      <module name="ALM-Reflections" target="1.8" />
+      <module name="ALM-Schematic" target="1.8" />
+      <module name="ALM-Scoreboard" target="1.8" />
+      <module name="ALM-Spectator" target="1.8" />
+      <module name="ALM-Stats" target="1.8" />
+      <module name="ALM-Teams" target="1.8" />
+      <module name="ALM-Texts" target="1.8" />
+      <module name="ALM-Utils" target="1.8" />
+      <module name="ALM-UUID" target="1.8" />
+      <module name="ALM-Voting" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
