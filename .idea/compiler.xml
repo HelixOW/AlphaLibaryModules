@@ -15,7 +15,6 @@
         <module name="ALM-Entity" />
         <module name="ALM-FakeAPI" />
         <module name="ALM-File" />
-        <module name="ALM-Holograms" />
         <module name="ALM-Inputs" />
         <module name="ALM-Inventories" />
         <module name="ALM-Item" />

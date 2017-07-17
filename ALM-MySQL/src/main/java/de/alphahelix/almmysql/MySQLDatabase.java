@@ -153,12 +153,6 @@ public class MySQLDatabase implements Serializable {
      * @param values the values to insert in the correct order.
      */
     public void insert(String... values) {
-
-        StringBuilder tableinfostr = new StringBuilder();
-        for (int i = 1; i <= getColumnAmount(); i++) {
-            tableinfostr.append(", ").append(getColumnName(i));
-        }
-
         StringBuilder builder = new StringBuilder();
         for (String str : values) {
             builder.append(", '").append(str).append("'");
