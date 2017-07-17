@@ -6,7 +6,7 @@
 
     <groupId>de.alphahelix</groupId>
     <artifactId>ALM-Utils</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>ALM-Utils</name>
@@ -72,6 +72,11 @@
     </repositories>
 
     <dependencies>
+        <dependency>
+            <groupId>de.alphahelix</groupId>
+            <artifactId>ALM-Core</artifactId>
+            <version>LATEST</version>
+        </dependency>
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot</artifactId>

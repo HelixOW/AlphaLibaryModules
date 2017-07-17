@@ -21,9 +21,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: org.spigotmc:spigot:1.12-R0.1-SNAPSHOT" level="project" />
-    <orderEntry type="module" module-name="ALM-Core" />
-    <orderEntry type="module" module-name="ALM-File" />
     <orderEntry type="module" module-name="ALM-Utils" />
+    <orderEntry type="module" module-name="ALM-File" />
+    <orderEntry type="module" module-name="ALM-Core" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.spigotmc:spigot:1.12-R0.1-SNAPSHOT" level="project" />
   </component>
 </module>

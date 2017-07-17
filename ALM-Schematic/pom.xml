@@ -62,10 +62,6 @@
 
     <repositories>
         <repository>
-            <id>bintray-alphahelixdev-AlphaLibary</id>
-            <url>http://dl.bintray.com/alphahelixdev/AlphaLibary</url>
-        </repository>
-        <repository>
             <id>spigotmc-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
         </repository>
@@ -78,7 +74,17 @@
     <dependencies>
         <dependency>
             <groupId>de.alphahelix</groupId>
-            <artifactId>alphalibary</artifactId>
+            <artifactId>ALM-Utils</artifactId>
+            <version>LATEST</version>
+        </dependency>
+        <dependency>
+            <groupId>de.alphahelix</groupId>
+            <artifactId>ALM-File</artifactId>
+            <version>LATEST</version>
+        </dependency>
+        <dependency>
+            <groupId>de.alphahelix</groupId>
+            <artifactId>ALM-Core</artifactId>
             <version>LATEST</version>
         </dependency>
         <dependency>

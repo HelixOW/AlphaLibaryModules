@@ -73,6 +73,16 @@
 
     <dependencies>
         <dependency>
+            <groupId>de.alphahelix</groupId>
+            <artifactId>ALM-Utils</artifactId>
+            <version>LATEST</version>
+        </dependency>
+        <dependency>
+            <groupId>de.alphahelix</groupId>
+            <artifactId>ALM-Core</artifactId>
+            <version>LATEST</version>
+        </dependency>
+        <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot</artifactId>
             <version>1.12-R0.1-SNAPSHOT</version>
